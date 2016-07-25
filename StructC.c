@@ -29,4 +29,8 @@ int main (void)
 			printf("NIM : %s\n", data_nilai[i].nim);
 			printf("Nama : %s\n", data_nilai[i].nama);
 			printf("Nilai : %s\n", data_nilai[i].nilai);
+			system ("pause");
+	return 0;
+	
+}
 	}
