@@ -26,3 +26,4 @@ int main (void)
 	i=0;
 	for (i=0; i<5; i++){
 			printf("Nomor : %s\n", data_nilai[i].nomor);
+			printf("NIM : %s\n", data_nilai[i].nim);
