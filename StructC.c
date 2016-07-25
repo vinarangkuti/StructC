@@ -13,3 +13,4 @@ int main (void)
 				struct data_mahasiswa data_nilai[5];
 				for (i=0; i<5; i++) {
 				printf("Masuikkan data dari mahasiswa");
+				printf("Nomor :\n");
