@@ -14,3 +14,4 @@ int main (void)
 				for (i=0; i<5; i++) {
 				printf("Masuikkan data dari mahasiswa");
 				printf("Nomor :\n");
+				scanf("%s", &data_nilai[i].nomor);
