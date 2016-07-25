@@ -15,3 +15,4 @@ int main (void)
 				printf("Masuikkan data dari mahasiswa");
 				printf("Nomor :\n");
 				scanf("%s", &data_nilai[i].nomor);
+				printf("NIM: \n");
