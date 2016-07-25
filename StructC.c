@@ -21,7 +21,8 @@ int main (void)
 				scanf("%s", &data_nilai[i].nama);
 				printf("Nilai: \n");
 				scanf("%s", &data_nilai[i].nilai);
-				
+
 					}
 	i=0;
 	for (i=0; i<5; i++){
+			printf("Nomor : %s\n", data_nilai[i].nomor);
