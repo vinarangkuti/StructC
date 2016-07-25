@@ -18,3 +18,4 @@ int main (void)
 				printf("NIM: \n");
 				scanf("%", &data_nilai[i].nim);
 				printf("Nama: \n");
+				scanf("%s", &data_nilai[i].nama);
