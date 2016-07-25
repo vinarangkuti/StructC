@@ -11,3 +11,4 @@ int main (void)
 				char nilai;
 			};
 				struct data_mahasiswa data_nilai[5];
+					for (i=0; i<5; i++) {
