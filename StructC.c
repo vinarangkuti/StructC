@@ -4,3 +4,4 @@
 int main (void)
 {
 		int i;
+		struct data_mahasiswa{
