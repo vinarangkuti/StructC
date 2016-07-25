@@ -8,3 +8,4 @@ int main (void)
 		char nomor[10];
 			char nim[10];
 			char nama [50];
+				char nilai;
