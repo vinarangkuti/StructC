@@ -9,3 +9,5 @@ int main (void)
 			char nim[10];
 			char nama [50];
 				char nilai;
+			};
+				struct data_mahasiswa data_nilai[5];
